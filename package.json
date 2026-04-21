@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "theme-scheduler",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Automatically switches between light and dark theme based on time of day.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
