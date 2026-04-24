@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
 	"description": "Automatically switches between light and dark theme based on time of day.",
-	"author": "Marvin",
+	"author": "Marvin Eggers",
 	"authorUrl": "https://github.com/TecEgg",
 	"isDesktopOnly": false
 }
