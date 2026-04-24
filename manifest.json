@@ -3,7 +3,7 @@
 	"name": "Theme Scheduler",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Automatically switches between light and dark theme based on time of day.",
+	"description": "Automatically switch between different themes based on the time of day, allowing for a more comfortable reading experience.",
 	"author": "Marvin Eggers",
 	"authorUrl": "https://github.com/TecEgg",
 	"isDesktopOnly": false
